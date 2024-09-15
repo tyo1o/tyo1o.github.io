@@ -23,13 +23,10 @@ sidebar: []
 
 2024年9月12日，我们组成员余祥煜，俞志豪，韩东辰与导师马一为见面，就毕业设计的相关问题进行了初步讨论。在我们的第一次小组会议上，整个团队成功地明确了项目的核心目标和重点任务。这次会议为项目的顺利进行奠定了基础，确保了所有团队成员对项目的方向和预期成果有了清晰的认识。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 ## 介绍
 
-{% highlight ruby %}
 首先，每个团队成员都做了自我介绍，分享了他们的背景、学术成就、专业技能以及在项目中的角色。这不仅促进了团队成员之间的理解，而且为后续的分工和责任分配提供了基础。我们根据每个人的专业知识合理分配具体任务，确保每个环节都有专人负责，提高项目执行的透明度和效率。
-{% endhighlight %}
 
 ## 项目概述
 
